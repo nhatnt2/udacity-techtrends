@@ -3,7 +3,6 @@
 This is a Flask application that lists the latest articles within the cloud-native ecosystem.
 
 ## Run 
-
 To run this application there are 2 steps required:
 
 1. Initialize the database by using the `python init_db.py` command. This will create or overwrite the `database.db` file that is used by the web application.
